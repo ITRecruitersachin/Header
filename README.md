@@ -319,11 +319,11 @@ Search       RocketReach  Personalized   Visa Check    ATS-Ready    NDA Safe    
 
 | 🌿 Sourcing Velocity | 🔵 Domain Strength | 🟣 Pipeline Health |
 |---|---|---|
-| X-Ray Search ░░░░░░░░░░ 96% | AI / ML / GenAI ░░░░░░░░░░ 98% | Submission Rate ░░░░░░░░░ 92% |
-| LinkedIn Outreach ░░░░░░░░░ 91% | Cybersecurity ░░░░░░░░░░ 95% | Interview Rate ░░░░░░░░ 78% |
-| Job Board Pull ░░░░░░░░░ 88% | ERP / SAP / Oracle ░░░░░░░░░ 93% | Placement Rate ░░░░░░░ 65% |
-| Referral Mining ░░░░░░░░░ 84% | Cloud / DevOps ░░░░░░░░░ 90% | Offer Accept Rate ░░░░░░░░░ 88% |
-| AI Outreach ░░░░░░░░░░ 95% | Network Engineering ░░░░░░░░ 87% | Rehire / Referral ░░░░░░░ 72% |
+| X-Ray Search      ░░░░░░░░░░ 96% | AI / ML / GenAI     ░░░░░░░░░░ 98% | Submission Rate  ░░░░░░░░░ 92% |
+| LinkedIn Outreach ░░░░░░░░░ 91% | Cybersecurity        ░░░░░░░░░░ 95% | Interview Rate   ░░░░░░░░ 78% |
+| Job Board Pull    ░░░░░░░░░ 88% | ERP / SAP / Oracle   ░░░░░░░░░ 93% | Placement Rate    ░░░░░░░ 65% |
+| Referral Mining   ░░░░░░░░░ 84% | Cloud / DevOps       ░░░░░░░░░ 90% | Offer Accept Rate ░░░░░░░░░ 88% |
+| AI Outreach       ░░░░░░░░░░ 95% | Network Engineering ░░░░░░░░ 87% | Rehire / Referral  ░░░░░░░ 72% |
 
 </div>
 
@@ -936,7 +936,7 @@ Infrastructure 🌐  ███████████████████�
 ╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ SOURCING CHANNELS                                                                                    ║
 ╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ LinkedIn Recruiter                                      ████████████████████                        ║
+║ LinkedIn Recruiter                                       ████████████████████                        ║
 ║ GitHub                                                   ███████████████████░                       ║
 ║ Dice                                                     ████████████████████                        ║
 ║ Monster                                                  ███████████████████░                       ║
